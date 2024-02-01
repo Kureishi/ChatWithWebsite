@@ -1,0 +1,1 @@
+Since application uses local LLM model, the provided context window may exceed when querying!
